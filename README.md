@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoePhyu99(Soe Phyu Phyu Htun)
-- 👀 I’m interested in developing.
-- 🌱 I’m currently learning Data Structure & Algorithm.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Data Structures & Algorithms.
 - 📫 How to reach me.(+959 773 226 011, soephyuphyuhtun99@gmail.com)
 
 <!---
